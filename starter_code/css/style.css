@@ -168,6 +168,11 @@ blockquote span {
 #main {
   margin-top: 80px;
 }
+
+#main-register {
+  background-color: #ffcc00;
+  text-align: center;
+}
 #posts {
   width: 73%;
   display: inline-block;
